@@ -1,0 +1,208 @@
+/*
+ Localizable.strings
+ UberNewDriver
+
+ Created by Deep Gami on 27/09/14.
+ Copyright (c) 2014 Deep Gami. All rights reserved.
+ */
+
+"REGISTER_FAIL" = "ثبت نام ناموفق بود";
+"REGISTER_SUCCESS" = "از ثبت نام شما متشکریم. لطفا صبر کنید تا مدیر درخواست شما را تایید کند";
+"SIGING_SUCCESS" = "خوش آمدید ";
+"CAM_NOT_AVAILABLE" = "دوربین موجود نیست";
+"SIGNIN_FAILED" = "ورود ناموفق بود، لطفا دوباره امتحان کنید";
+"NO_INTERNET" = "اتصال اینترنت خود را بررسی کنید";
+"No Internet" = "بدون اینترنت";
+"SENDING MAIL" = "ارسال ایمیل";
+"OK" = "خب";
+"LOADING" = "در حال بارگزاری";
+"Terms & Conditions" = " شرایط و ضوابط";
+"PLEASE_WAIT"="لطفا صبر کنید";
+
+///// SidebarVC
+
+" profile"=" پروفایل";
+" history"=" تاریخ";
+"Payment"="  قرارداد";
+" settings"=" تنظیمات";
+"Promotions"="  تخفیفات";
+"Referral" = " ارجاع";
+"Logout"="  خروج از سیستم";
+"Logout Msg"="آیا برای خارج شدن مطمئن هستید ؟";
+"Yes"="بله";
+"No"="خیر";
+" Instant Job" = "حمل فوری";
+
+// SIGn VC
+
+"SIGN_IN" = "لطفا صبر کنید تا ما شما را تایید کنیم";
+"SIGN UP" = " ثبت نام";
+"Sign In" = "  ورود";
+"SIGN IN" = "ورود";
+"REGISTER" = "ثبت نام کنید";
+"FORGOT_PASSWORD" = " رمز عبور را فراموش کردید؟";
+"SEND PASSWORD" = "ارسال رمز عبور";
+"EMAIL" = "ایمیل";
+"PASSWORD" = "رمز";
+"CONFIRM PASSWORD" = "رمز عبور را تایید کنید";
+
+//"FORGOT_PASSWORD" = "FORGOT_PASSWORD";
+
+"Register" = "  ثبت نام";
+"or" = "یا";
+"FIRST NAME" = "نام";
+"LAST NAME" = "نام خانوادگی";
+"NUMBER" = "شماره";
+"TYPE" = "نوشتن";
+"ADDRESS"="آدرس";
+"BIO"="بیوگرافی";
+"TAXI MODEL"="نوع کشنده";
+"TAXI NUMBER"="شماره پلاک";
+"ZIPCODE" = "کد پستی";
+"SELECT YOUR VEHICLE" = "انتخاب نوع کشنده";
+"I agree to the terms and conditions" = "من قوانین و مقررات را قبول دارم";
+"Cancel" = "انصراف";
+"Done"="اتمام";
+"Take Photo" = "گرفتن تصویر";
+"Select Image" = "انتخاب تصویر";
+
+"INFO"="لطفا علامت فیلد را با علامت اطلاعات تایید کنید، نمی توانید این زمینه ها را در آینده تغییر دهید.";
+"INFO_EMAIL"="لطفا آدرس ایمیل خود را تأیید کنید، نمیتوانید آن را در آینده تغییر دهید.";
+"INFO_TAXI_NUMBER"="لطفا شماره کشنده خود را تأیید کنید، نمیتوانید آن را در آینده تغییر دهید.";
+"INFO_TAXI_MODEL"="لطفا مدل کشنده خود را بررسی کنید، نمیتوانید آن را در آینده تغییر دهید.";
+
+//PickMeUp VC
+
+"WAITING_ADMIN_APPROVE" = "در انتظار";
+"MENU" = "   منو";
+"ACCEPT" = "قبول";
+"REJECT" = "رد";
+"REQUEST_ACCEPTED" = "درخواست حمل قبول شد";
+"REQUEST_REJECTED" = "درخواست حمل رد شد";
+"YOU ARE NOT APPROVED BY ADMIN" = "درخواست شما توسط مدیر مورد بررسی است. پس از تایید مدیر، درخواست تأییدیه دریافت خواهید کرد.";
+
+//Arrived MapVC
+
+"WAITING_WALKER_START" = "در حال انتظار برای ارائه دهنده برای شروع";
+"WAITING_TRIP_START" = "منتظر بار برای شروع";
+"WAITING_TRIP_COMPLETE" = "در انتظار اتمام حمل";
+"WALKER_STARTED" = "ارائه دهنده به شما نزدیک شده است";
+"WALKER_ARRIVED" = "ارائه دهنده به مکان شما رسیده است";
+"WALK_STARTED" = "حمل شما شروع شده است";
+"JOB_DONE" = "حمل شما پایان پذیرفت";
+"CALL USER" = "تماس با کاربر";
+"TAP WHEN STARTED" = "زمان شروع کلیک کنید";
+"TAP WHEN ARRIVED" = "زمان رسیدن کلیک کنید";
+"START TRIP" = "شروع حمل";
+"END TRIP" = "پایان حمل";
+"CONFIRM" = "تائید";
+"Feedback" = " بازخورد";
+"SUBMIT" = "ثبت";
+"COMMENT" = "کامنت";
+"CASH" = "پول";
+"CARD" = "کارت اعتباری";
+"Please collect cash from client for your trip" = "لطفا کرایه خود را از کاربر دریافت کنید";
+"ENTER"="ورود";
+"Enter_reject_reason"="دلیل رد درخواست را بنویسید";
+
+//FeedbackVC
+
+"WAITING_FOR_FEEDBACK" = "منتظر ارائه کننده برای ارائه بازخورد است";
+"RATING_COMPLETED" = "از شما برای ارائه بازخورد تشکر میکنم";
+"kms" = "کیلومتر بر ثانیه";
+"Miles" = "کیلومتر";
+"Mins" = "دقیقه";
+"COMMENTS" = "کامنت ها";
+"PLEASE_RATINGS"="لطفا به کاربر امتیاز دهید";
+
+
+// HIstory VC
+
+"LOADING_HISTORY" = "بارگزاری تاریخچه";
+"History" = " تاریخچه";
+"Invoice" = "فاکتور";
+"BASE PRICE" = "کرایه پایه";
+"DISTANCE COST" = "کرایه مسافت";
+"PROMO BONUS" = "جایزه تخفیف";
+"REFERRAL BONUS" = "جایزه معرف";
+"per mile" = "به ازای کیلومتر";
+"per mins" = "به ازای دقیقه";
+"TIME COST" = "کرایه زمان";
+"Total Due" = "کل";
+"CLOSE" = "بستن";
+"PHONE" = "تلفن";
+"ADDRESS" = "آدرس";
+"ZIPCODE" = "کدپستی";
+"Contact Us" = " تماس با ما";
+"Are Sure You want to log Out" = "خارج می شوید ؟";
+
+// Profile VC
+
+"UPDATING_PROFILE" = "در حال بروز رسانی پروفایل . صبر کنید";
+"PROFILE" = " پروفایل";
+"PROFILE_UPDATED" = "پروفایل با موفقیت بروز شد";
+"NAME" = "نام";
+"NEW PASSWORD" = "رمز جدید";
+"CURRENT PASSWORD" = "رمز فعلی";
+"CONFIRM NEW PASSWORD" = "تائید رمز جدید";
+"Edit Profile" = "ویرایش پروفایل";
+"Update Profile" = "بروز رسانی پروفایل";
+"This field is not editable."="این فیلد قابل ویرایش نیست.";
+
+//Forgot Password
+
+"PASSWORD_SENT_SUCCESS" = "رمز به ایمیل شما ارسال خواهد شد";
+"ERROR"="خطا ، دوباره امتحان کنید";
+
+//Setting VC
+
+"AVAILABILITY_UODATE"="دسترسی شما بروز شد";
+"Setting" = " تنظیمات";
+"Settings" = " تنظیمات";
+"Available to drive?" = "اماده رانندگی هستی ؟";
+"Sound" = "صدا";
+"YES" = "بله";
+"NO" = "خیر";
+"ON" = "روشن";
+"OFF" = "خاموش";
+"Share" = " اشتراک";
+"Contact Us" = "تماس با ما";
+"Logout" = " خروج";
+
+// register VC
+
+"PLEASE_FIRST_NAME"="نام خود را وارد کنید.";
+"PLEASE_LAST_NAME"="نام خانوادگی خود را وارد کنید.";
+"PLEASE_NAME"="نام خود را وارد کنید";
+"PLEASE_BIRTHDATE"="تاریخ تولد خود را وارد کنید";
+"PLEASE_EMAIL"="ایمیل خود را وارد کنید";
+"PLEASE_NUMBER"="شماره تماس خود را وارد کنید";
+"PLEASE_PASSWORD"="رمز خود را وارد کنید";
+"PLEASE_RETYPE_PASSWORD"="تائید رمز خود را وارد کنید";
+"NOT_MATCH_RETYPE"="رمز و تائید رمز یکسان نیست";
+"PLEASE_TAXI_MODEL" = "مدل کشنده خود را وارد کنید";
+"PLEASE_TAXI_NUMBER" = "شماره پلاک کشنده را وارد کنید";
+"PLEASE_NUMBER_MIN" = "حداقل 10 رقم برای شماره تماس";
+
+"PLEASE_VALID_EMAIL"="ایمیل صحیح وارد کنید";
+"REGISTER_SUCCESS"="با موفقیت ثبت نام کردید";
+"REGISTER_FAIL"="ثبت نام شکست خورد دوباره امتحان کنید";
+"Please Select Profile Picture" = "تصویر پروفایل را انتخاب کنید";
+"Please Select Service Type" = "نوع کشنده خود را انتخاب کنید";
+"Please Wait" = "لطفا صبر کنید";
+"Today" = "امروز";
+"Yesterday" = "دیروز";
+
+// Logout
+
+"WAITING_LOGOUT" = "انتظار برای خروج";
+"LOGED_OUT" = "خارج شدید";
+
+
+//
+//"Select_language"="لطفا درخواست را دوباره شروع کنید تا تغییرات اعمال شود";//
+//"Alert"="هشدار";//
+//"Waiting_Cost"="انتظار می رود هزینه";//
+//"WAIT" = "صبر کن";//
+//"PAUSE" = "مکث";//
+//"WaitingTime" = "زمان انتظار";//

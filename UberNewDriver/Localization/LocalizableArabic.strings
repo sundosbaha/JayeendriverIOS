@@ -1,0 +1,210 @@
+/* 
+  LocalizableArabic.strings
+  JayeenTaxi Driver
+
+  Created by Spextrum on 17/05/17.
+  Copyright © 2017 Deep Gami. All rights reserved.
+*/
+
+"REGISTER_FAIL" = "فشل في عملية التسجيل";
+"REGISTER_SUCCESS" = "تمت عملية التسجيل , الرجاء انتظار التأكيد من الادمن";
+"SIGING_SUCCESS" = "اهلا و سهلا  ";
+"CAM_NOT_AVAILABLE" = "الكاميرا غير متاحة";
+"SIGNIN_FAILED" = "عملية الدخول فشلت , الرجاء المحاولة مره اخرى !";
+"NO_INTERNET" = "تأكد من اتصال الانترنت في جهازك ";
+"No Internet" = "لا يوجد اتصال ";
+"SENDING MAIL" = "جاري ارسال الايميل";
+"OK" = "موافق";
+"LOADING" = "جاري التحميل";
+"Terms & Conditions" = " الشروط و الاحكام";
+"PLEASE_WAIT"="الرجاء الانتظار...";
+
+
+///// SidebarVC
+//" profile"="  Profile";
+//" history"="  History";
+" profile"=" الملف الشخصي";
+" history"=" رحلاتي ";
+"Payment"="  الدفع";
+" settings"=" الاعدادات";
+"Promotions"="  العروض ";
+"Referral" = " رمز الحساب";
+"wallet"="محفظة نقود";
+"Logout"="  الخروج";
+"Logout Msg"="هل تود تسجيل الخروج";
+"Yes"="نعم";
+"No"="لا ";
+"Select_language"="Please Restart the application for the changes to take effect";
+"Alert"="محزر";
+
+
+// SIGn VC
+
+"SIGN_IN" = "جاري تسجيل الدخول";
+"SIGN UP" = " تسجيل حساب جديد";
+"Sign In" = "  دخول";
+"SIGN IN" = " دخول";
+"REGISTER" = "انشاء حساب";
+"FORGOT_PASSWORD" = " هل نسيت كلمة المرور";
+"SEND PASSWORD" = "ارسال كلمة المرور";
+"EMAIL" = "الايميل";
+"EMAILP" = "رقم الهاتف / عنوان البريد الإلكتروني";
+"PASSWORD" = "كلمة المرور";
+"CONFIRM PASSWORD" = "تأكيد كلمة المرور";
+
+
+//"FORGOT_PASSWORD" = "FORGOT_PASSWORD";
+"Register" = "    انشاء حساب   ";
+"or" = "أو";
+"FIRST NAME" = "الاسم الاول";
+"LAST NAME" = "الاسم الاخير";
+"NUMBER" = "الرقم";
+"TYPE" = "عنوان السكن";
+"ADDRESS"="عنوان السكن";
+"BIO"="المعلومات الشخصية";
+"TAXI MODEL"="نوع المركبة ";
+"TAXI NUMBER"="رقم لوحة التسجيل";
+"ZIPCODE" = "الرمز البريدي";
+"SELECT YOUR VEHICLE" = "اختر نوع السيارة";
+"I agree to the terms and conditions" = "اوافق على الشروط و الاحكام";
+"Cancel" = "الغاء";
+"Done"="تم ";
+"Take Photo" = "التقط صورة ";
+"Select Image" = "اختر صورة";
+
+"INFO"="الرجاء التأكيد على المعلومات المضافة , لن تتمكن من تعديل المعلومات في المستقبل .";
+"INFO_EMAIL"="الرجاء التأكيد على الايميل المضاف  , لن تتمكن من تعديل المعلومات في المستقبل .";
+"INFO_TAXI_NUMBER"="الرجاء التأكيد على المعلومات المضافة , لن تتمكن من تعديل المعلومات في المستقبل .";
+"INFO_TAXI_MODEL"="الرجاء التأكيد على نوع السيارة المضافة , لن تتمكن من تعديل المعلومات في المستقبل .";
+
+//PickMeUp VC
+
+"WAITING_ADMIN_APPROVE" = "انتظار";
+"MENU" = "   قائمة";
+"ACCEPT" = "قبول";
+"REJECT" = "رفض";
+"REQUEST_ACCEPTED" = "تم قبول الطلب";
+"REQUEST_REJECTED" = "مشغول";
+"YOU ARE NOT APPROVED BY ADMIN" = "طلبك قيد التأكيد , سيصل ايميل فور القبول شكرا  .";
+
+//Arrived MapVC
+
+"WAITING_WALKER_START" = "انتظار السائق للبدء";
+"WAITING_TRIP_START" = "انتظار الرحلة للبدء";
+"WAITING_TRIP_COMPLETE" = "انتظار الرحلة للانتهاء";
+"WALKER_STARTED" = "السائق في الطريق اليك ";
+"WALKER_ARRIVED" = "السائق وصل !";
+"WALK_STARTED" = "تم بدء الرحلة ";
+"JOB_DONE" = "تم انهاء الرحلة ";
+"CALL USER" = "اتصل بالزبون";
+"TAP WHEN STARTED" = "اضغط للبدء";
+"TAP WHEN ARRIVED" = "اضغط عند الوصول";
+"START TRIP" = "ابدأ الرحلة ";
+"END TRIP" = "انهاء الرحلة";
+"CONFIRM" = "موافق / تاكيد";
+"Feedback" = " تقيم ";
+"SUBMIT" = "موافق";
+"COMMENT" = "تعليقات";
+"CASH" = "كاش";
+"CARD" = "فيزا";
+"Please collect cash from client for your trip" = "رجاء استلم كاش من الزبون لهذه الرحلة";
+"ENTER"="ادخل";
+"Enter_reject_reason"="الرجاء ادخال سبب الرفض";
+
+//FeedbackVC
+
+"WAITING_FOR_FEEDBACK" = "الرحجاء ادخال التقيم ";
+"RATING_COMPLETED" = "شكرا لتقييمك";
+"kms" = "كيلوميتر";
+"Miles" = "مايل";
+"Mins" = "دقائق";
+"COMMENTS" = "تعليقات";
+"PLEASE_RATINGS"="تفيمك للزبون";
+
+// HIstory VC
+
+"LOADING_HISTORY" = "Loading history";
+"History" = " التاريخ";
+"Invoice" = "فاتورة ";
+"BASE PRICE" = "اقل سعر للرحلة";
+"DISTANCE COST" = "قيمة الخصم";
+"PROMO BONUS" = "رصيد اضافي";
+"REFERRAL BONUS" = "رصيد اضافي";
+"per mile" = "كل / ميل";
+"per mins" = "كل /دقيقة";
+"TIME COST" = "وقت الانتظار";
+"Total Due" = "المجموع";
+"CLOSE" = "اغلق";
+"PHONE" = "هاتف";
+"ADDRESS" = "العنوان";
+"ZIPCODE" = "الرمز البريدي";
+"Contact Us" = " اتصل بنا";
+"Are Sure You want to log Out" = "تاكيد تسجيل الخروج ?";
+
+// Profile VC
+
+"UPDATING_PROFILE" = "تحديث الحساب الرجاء الانتظار ...";
+"PROFILE" = "حسابك";
+"PROFILE_UPDATED" = "تم تحديث الحساب بنجاح";
+"NAME" = "الاسم";
+"NEW PASSWORD" = "كلمة السر الجديدة";
+"CURRENT PASSWORD" = "كلمة السر الحالية";
+"CONFIRM NEW PASSWORD" = "تاكيد كلمة السر الجديدة";
+"Edit Profile" = "تعديل الحساب";
+"Update Profile" = "تحديث معلومات الحساب";
+"This field is not editable."="هذا الخيار غير قابل للتعديل.";
+
+//Forgot Password
+
+"PASSWORD_SENT_SUCCESS" = "تم ارسال كلمة السر للايميل المسجل لهذا الحساب";
+"ERROR"="اوووبس ! حاول مرة اخرة.";
+
+//Setting VC
+
+"AVAILABILITY_UODATE"="تم تحديث ظهورك";
+"Setting" = " اعدادات الحساب ";
+"Settings" = " اعدادات الحساب ";
+"Available to drive?" = "جاهز للانطلاق ؟?";
+"Sound" = "اعدادات الصوت";
+"YES" = "نعم";
+"NO" = "لا";
+"ON" = "تفعيل";
+"OFF" = "الغاء";
+"Share" = " مشاركة";
+"Contact Us" = "اتصل بنا ";
+"Logout" = " تسجيل الخروج";
+
+// register VC
+
+"PLEASE_FIRST_NAME"="الاسم الاول .";
+"PLEASE_LAST_NAME"="الاسم الثاني.";
+"PLEASE_NAME"="الاسم.";
+"PLEASE_BIRTHDATE"="تاريخ الميلاد.";
+"PLEASE_EMAIL"="الايميل.";
+"PLEASE_NUMBER"="رقم الهاتف.";
+"PLEASE_PASSWORD"="كلمة المرور.";
+"PLEASE_RETYPE_PASSWORD"="تأكيد كلمة المرور.";
+"NOT_MATCH_RETYPE"="كلمة المرور غير مطابقة.";
+"PLEASE_TAXI_MODEL" = "الرجاء ادخال نوع السيارة.";
+"PLEASE_TAXI_NUMBER" = "ادخل رقم اللوحة .";
+"PLEASE_NUMBER_MIN" = "ادخل رقم الهاتف.";
+
+"PLEASE_VALID_EMAIL"="ادخل الايميل.";
+"REGISTER_SUCCESS"="تم التسجيل بنجاح!";
+"REGISTER_FAIL"="خطأ في التسجيل حاول مرة اخرى.";
+"Please Select Profile Picture" = "اختر صورة شخصية";
+"Please Select Service Type" = "اختر نوع المركبة";
+"Please Wait" = "لحظة ..... ";
+"Today" = "اليوم";
+"Yesterday" = "البارحة ";
+
+
+// Logout
+"WAITING_LOGOUT" = "جاري تسجيل الخروج";
+"LOGED_OUT" = "تم تسجيل الخروج";
+"Waiting_Cost"="تكلفة الانتظار";
+"Instant_Job" = "وظيفة فورية";
+
+"Wait" = "انتظر";
+"Pause" = "وقفة";
+"Waiting_Time" = "وقت الانتظار";
