@@ -36,11 +36,12 @@
 #define Google_Map_Server_Key @"AIzaSyA-tidAwmszLdaeZ2-BLosMK_kVmwF21-o"
 
 
-#define API_URL @"http://productstaging.in/jayeentaxi/public/"
+#define API_URL @"http://notanotherfruit.com/jayeentaxi/public/"
 
 #define TERM_OF_USE_URL @""
-#define PRIVACY_URL @"http://productstaging.in/jayeentaxi/public/admin/termsncondition"
+#define PRIVACY_URL @"http://notanotherfruit.com/jayeentaxi/public/admin/termsncondition"
 
+    //http://notanotherfruit.com/jayeentaxi/
 
 //////////// WS Methods
 #pragma mark-

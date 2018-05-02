@@ -81,7 +81,7 @@
     [dictParam setObject:strForUserToken forKey:@"token"];
     
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
-    [manager POST:@"http://productstaging.in/wallet/public/provider/provider_balance" parameters:dictParam progress:nil success:^(NSURLSessionTask *task, id responseObject)
+    [manager POST:@"http://notanotherfruit.com/wallet/public/provider/provider_balance" parameters:dictParam progress:nil success:^(NSURLSessionTask *task, id responseObject)
      {
          [APPDELEGATE showLoadingWithTitle:@""];
          NSLog(@"Available Amount in Wallet: %@", responseObject);
@@ -115,7 +115,7 @@
     [dictParam setObject:AmountToWithdraw forKey:@"amount"];
     
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
-    [manager POST:@"http://productstaging.in/wallet/public/provider/provider_spend_amounts" parameters:dictParam progress:nil success:^(NSURLSessionTask *task, id responseObject)
+    [manager POST:@"http://notanotherfruit.com/wallet/public/provider/provider_spend_amounts" parameters:dictParam progress:nil success:^(NSURLSessionTask *task, id responseObject)
      {
          [APPDELEGATE showLoadingWithTitle:@""];
          NSLog(@"Withdrawn Amount From Wallet: %@", responseObject);
